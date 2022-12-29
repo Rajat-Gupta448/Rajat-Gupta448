@@ -1,6 +1,6 @@
-<!-- ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=000000&background=354BFF00&width=600&lines=<👋Hello/>;<👋Namaste/>;<👋Bonjour/>;<👋Ciao/>;<👋Ni+hao/>"  alt="Hello👋" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=000000&background=354BFF00&width=600&lines=<👋Hello/>;<👋Namaste/>;<👋Bonjour/>;<👋Ciao/>;<👋Ni+hao/>"  alt="Hello👋" />
 
-<!--
+
 **Rajat-Gupta448/Rajat-Gupta448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+
 
 
